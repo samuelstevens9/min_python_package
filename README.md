@@ -11,3 +11,4 @@ http://python-packaging.readthedocs.io/en/latest/minimal.html
 2. Create the code files for the package. Either a single python file: `monkey.py` or a directory: `monkey/__init__.py` 
 3. Add your tests cases to `tests.py`
 4. Update this README
+5. Install into your virtual environment with `pip install .` or `python setup.py install`
